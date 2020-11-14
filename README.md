@@ -1,2 +1,2 @@
 # IBM
-IBM professional certificate
+IBM professional certificate specialization courses.
